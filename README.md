@@ -1,5 +1,3 @@
-Como vi o código HTML, CSS e JavaScript do projeto, o README pode ser mais específico sobre o que ele realmente faz. O projeto possui campos para peso e altura, botão de cálculo, exibição dinâmica do resultado e uma tabela de classificação do IMC.  
-
 # 📊 Calculadora de IMC
 
 Uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com **HTML, CSS e JavaScript**, permitindo que o usuário informe seu peso e altura para descobrir sua classificação corporal de forma rápida e intuitiva.
